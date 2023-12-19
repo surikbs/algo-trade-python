@@ -2,6 +2,6 @@
   "port": 8080,
   "enableSSL": false,
   "sslPort": 8443,
-  "deployDir": "C:/surikbs/temp/python-deploy",
-  "logFileDir": "C:/surikbs/temp/python-deploy/logs"
+  "deployDir": "/python-deploy",
+  "logFileDir": "/python-deploy/logs"
 }
